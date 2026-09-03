@@ -1,5 +1,6 @@
 # Project 2 — Traffic Light Robot
-
+Name : Samah Ahmed Mahmoud Ahmed 
+Email: sammahmedzz50@gmail.com
 ## Description
 A traffic light controller simulation supporting state transitions, tick-based timing, dynamic car queues, night mode blinking, and comprehensive crossing logs.
 
